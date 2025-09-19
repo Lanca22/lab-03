@@ -2,7 +2,7 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+Used an LLM to help sort out some errors I was getting and in finding a proper direction in terms of changing the data in existing city objects while keeping the location the same(by tweaking the add functionality to make it applicable for editing)
 
 ## Verbal Collaboration
 
